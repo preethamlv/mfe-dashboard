@@ -1,1 +1,2 @@
-# mfe-dashboard
+# Micro frontend 
+- sanple dashboard project
