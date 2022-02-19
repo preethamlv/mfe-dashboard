@@ -3,7 +3,7 @@ name: deploy-dashboard
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'packages/dashboard/**'
 
