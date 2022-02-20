@@ -24,7 +24,7 @@
 
     <div class="p-col-12 p-md-6 p-xl-3">
       <div class="highlight-box">
-        <div class="initials" style="background-color: #007be5; color: #00448f">
+        <div class="initials" style="background-color: #007be5; color: #00448F">
           <span>TV</span>
         </div>
         <div class="highlight-details">
@@ -158,8 +158,8 @@
           </li>
           <li>
             <button class="p-link">
-              <span class="name">Tony Corleone</span>
-              <span class="email">tony@primevue.com</span>
+              <span class="name">Preetham</span>
+              <span class="email">preetham.lawrence@gmail.com</span>
             </button>
           </li>
         </ul>
