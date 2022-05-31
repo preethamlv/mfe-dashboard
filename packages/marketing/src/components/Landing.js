@@ -79,7 +79,7 @@ export default function Album() {
               color="textPrimary"
               gutterBottom
             >
-              DTI FED Team
+              DTI Team
             </Typography>
             <Typography
               variant="h5"
