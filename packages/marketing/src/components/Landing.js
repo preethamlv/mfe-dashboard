@@ -79,7 +79,7 @@ export default function Album() {
               color="textPrimary"
               gutterBottom
             >
-              DTI Teams
+              UI Eng. Teams
             </Typography>
             <Typography
               variant="h5"
